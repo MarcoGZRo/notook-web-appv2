@@ -5,5 +5,5 @@
 |  |\   | |  `--'  |     |  |     |  `--'  | |  `--'  | |  .  \  
 |__| \__|  \______/      |__|      \______/   \______/  |__|\__\ 
                                                                  
-Notook proyect Ver: 0.0
+Notook project Ver: 0.0
 Powered by Spring Boot 4.1.1
